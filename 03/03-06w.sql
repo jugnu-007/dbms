@@ -1,0 +1,4 @@
+SELECT
+    COUNT(DISTINCT DEPTNO)
+FROM
+    Emp;

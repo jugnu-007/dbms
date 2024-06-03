@@ -1,0 +1,6 @@
+SELECT
+    ENAME
+FROM
+    Emp
+WHERE
+    (SYSDATE - HIREDATE) / 365 < 38;

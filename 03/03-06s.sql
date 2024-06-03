@@ -1,0 +1,4 @@
+SELECT
+    MAX(SAL) - MIN(SAL) as DIFFERENCE
+FROM
+    Emp;

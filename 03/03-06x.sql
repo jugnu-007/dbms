@@ -1,0 +1,7 @@
+SELECT
+    ENAME,
+    JOB
+FROM
+    Emp
+WHERE
+    MGR IS NULL;

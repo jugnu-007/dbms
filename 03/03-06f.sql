@@ -1,0 +1,7 @@
+SELECT
+    ENAME,
+    JOB
+FROM
+    Emp
+WHERE
+    JOB NOT LIKE ('MANAGER');

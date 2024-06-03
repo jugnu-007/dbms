@@ -1,0 +1,6 @@
+SELECT
+    ENAME
+FROM
+    Emp
+WHERE
+    (DEPTNO = 20);

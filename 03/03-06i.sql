@@ -1,0 +1,6 @@
+SELECT
+    ENAME
+FROM
+    Emp
+WHERE
+    ENAME LIKE ('__R%');
